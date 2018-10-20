@@ -1,2 +1,2 @@
 # goit-fe-course
-Repo for goit h/w
+Repositories for goit h/w
